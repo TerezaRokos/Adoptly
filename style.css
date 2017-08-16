@@ -36,7 +36,7 @@ html, body {
 }
 
 .jumbotron {
-  background: url('https://s3.amazonaws.com/codecademy-content/projects/adoptly/bg.jpg') no-repeat center center;
+  background: url('bg.jpg') no-repeat center center;
   background-size: cover;
   color: #E52364;
   text-align: center;
@@ -52,6 +52,7 @@ html, body {
 .supporting .btn {
   border: #000000 solid 1px;
   padding: 10px 30px;
+  margin: 20px;
 }
 
 .supporting .container p {
